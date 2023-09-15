@@ -1,6 +1,8 @@
 # houghTransform
 An implementation of hough transform for circle detection and line detection with a python notebook and OpenCV.
 This was a project that was part of my Computer Vision course at Georgia Tech.
+
+<br>
 ![ima1](https://github.com/brieucpopper/houghTransform/assets/102361078/a93b9cbc-1748-492c-a088-12c36fd5df96)
 
 This image shows the final result of a "challenging" instance of circle detection, as the background isn't uniform and the circles don't all have the same radius. My algorithm almost got every circle right but we still see a problem in the bottom right part of the image.
